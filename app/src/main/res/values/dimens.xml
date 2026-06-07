@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Standard Margins -->
+    <dimen name="spacing_tiny">4dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_xlarge">32dp</dimen>
+
+    <!-- Radius -->
+    <dimen name="radius_small">8dp</dimen>
+    <dimen name="radius_medium">12dp</dimen>
+    <dimen name="radius_large">16dp</dimen>
+    <dimen name="radius_xlarge">24dp</dimen>
+    <dimen name="radius_round">50dp</dimen>
+
+    <!-- UI Component Heights -->
+    <dimen name="banner_height">160dp</dimen>
+    <dimen name="category_icon_size">56dp</dimen>
+    <dimen name="restaurant_image_height">160dp</dimen>
+    <dimen name="bottom_nav_height">60dp</dimen>
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="search_bar_height">44dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_caption">11sp</dimen>
+    <dimen name="text_body_small">12sp</dimen>
+    <dimen name="text_body">14sp</dimen>
+    <dimen name="text_body_large">15sp</dimen>
+    <dimen name="text_title_small">16sp</dimen>
+    <dimen name="text_title">18sp</dimen>
+    <dimen name="text_headline_small">20sp</dimen>
+    <dimen name="text_headline">24sp</dimen>
+</resources>

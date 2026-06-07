@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="meituan_orange">#FF6D00</color>
+    <color name="meituan_orange_light">#FF8F00</color>
+    <color name="meituan_orange_dark">#E65100</color>
+    <color name="meituan_yellow">#FFD600</color>
+    <color name="meituan_yellow_light">#FFF9C4</color>
+    <color name="bg_grey">#F5F5F5</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="bg_dark">#121212</color>
+    <color name="text_primary">#222222</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#999999</color>
+    <color name="divider">#EEEEEE</color>
+    <color name="star_color">#FFB300</color>
+    <color name="tag_bg">#FFF3E0</color>
+    <color name="tag_text">#FF6D00</color>
+    <color name="green">#4CAF50</color>
+    <color name="green_light">#E8F5E9</color>
+    <color name="red">#F44336</color>
+    <color name="red_light">#FFEBEE</color>
+    <color name="blue">#2196F3</color>
+    <color name="blue_light">#E3F2FD</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="surface_variant">#F3F3F3</color>
+    <color name="shimmer_base">#E0E0E0</color>
+    <color name="shimmer_highlight">#F5F5F5</color>
+</resources>
